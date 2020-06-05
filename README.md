@@ -4,8 +4,15 @@ Get your unofficial transcript from eCampus application automatically using Sele
 ## How to use 
 1. Open get-grades.py
 2. Fill in userid and pwd 
-3. Run get-grades.py
+3. python get-grades.py
  
  ## Requirements
- This project requires Selenium to be installed on your environment.  
- Refer to https://selenium-python.readthedocs.io/installation.html for installation guides. 
+ Python  
+  
+ Selenium   
+ pip3 install selenium    
+ Or refer to https://selenium-python.readthedocs.io/installation.html for installation guides. 
+ 
+ chromedriver
+ pip3 install chromedriver  
+ Refer to https://sites.google.com/a/chromium.org/chromedriver/getting-started for installation guides. 
