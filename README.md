@@ -13,6 +13,6 @@ Get your unofficial transcript from eCampus application automatically using Sele
  pip3 install selenium    
  Or refer to https://selenium-python.readthedocs.io/installation.html for installation guides. 
  
- chromedriver
+ chromedriver  
  pip3 install chromedriver  
  Refer to https://sites.google.com/a/chromium.org/chromedriver/getting-started for installation guides. 
